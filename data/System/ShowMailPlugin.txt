@@ -1,0 +1,36 @@
+---+!! !ShowMailPlugin
+<!--
+One line description, required for extensions repository catalog.
+BuildContrib will fill in the SHORTDESCRIPTION with the value of
+$SHORTDESCRIPTION from the .pm module, or you can redefine it here if you
+prefer.
+   * Set SHORTDESCRIPTION = %$SHORTDESCRIPTION%
+-->
+%SHORTDESCRIPTION%
+
+%TOC%
+
+---++ Usage
+<p>All enabled Users must be declared in configure.</p>
+If you are priviledged you can use !SHOWMAIL{UserName} to see a specific mail or !SHOWALLUSERS to get a table of all users with their login names and mail adresses.
+
+---++ Installation Instructions
+
+%$INSTALL_INSTRUCTIONS%
+
+---++ Info
+
+Many thanks to the following sponsors for supporting this work:
+   * Acknowledge any sponsors here
+
+|  Author(s): | |
+|  Copyright: | &copy; |
+|  License: | [[http://www.gnu.org/licenses/gpl.html][GPL (Gnu General Public License)]] |
+|  Release: | %$RELEASE% |
+|  Version: | %$VERSION% |
+|  Change History: | <!-- versions below in reverse order -->&nbsp; |
+|  Dependencies: | %$DEPENDENCIES% |
+|  Home page: | http://extensions.open-quality.com/bin/view/Extensions/ShowMailPlugin |
+|  Support: | http://extensions.open-quality.com/bin/view/Support/ShowMailPlugin |
+
+<!-- Do _not_ attempt to edit this topic; it is auto-generated. -->
