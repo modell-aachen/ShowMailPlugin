@@ -1,0 +1,4 @@
+# Release manifest for ShowMailPlugin
+data/System/ShowMailPlugin.txt 0644 Documentation
+lib/Foswiki/Plugins/ShowMailPlugin.pm 0644 Perl module
+lib/Foswiki/Plugins/ShowMailPlugin/Config.spec 0644 Configuration
